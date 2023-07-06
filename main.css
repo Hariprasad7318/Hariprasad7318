@@ -1,0 +1,33 @@
+body{
+    background: url(./wp3686805.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div
+{
+    position: relative;
+    position:absolute;
+    top: 621px;
+    left: 1575px;
+}
+input{
+    height: 30px;
+    width: 79px;
+}
+
+#content
+{
+    position: relative;
+    position: absolute;
+    border: none ;
+    width: 700px;
+    height: 500px;
+    top: 334px;
+    left :365px;
+    color: aliceblue;
+    font-size: 50px;
+
+}
+
+
